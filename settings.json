@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 150,
+      "repeat-delay": 500,
       "messages": [
         "It's goon time",
-        "Basically what we're gonna do is dance",
+        "Basically what we're gonna do is dance"
       ]
     },
     "chat-log": true,

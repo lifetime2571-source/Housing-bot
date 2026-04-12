@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "iAFKbot",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "Man_Eater_Nom.aternos.me",
